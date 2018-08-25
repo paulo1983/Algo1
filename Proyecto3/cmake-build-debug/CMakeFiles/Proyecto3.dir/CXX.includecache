@@ -6,15 +6,15 @@
 
 #IncludeRegexTransform: 
 
-E:/Algo1/Proyecto3/labo00.cpp
+/home/nodo2/git/Algo1/Proyecto3/labo00.cpp
 iostream
 -
 string
 -
 
-E:/Algo1/Proyecto3/main.cpp
+/home/nodo2/git/Algo1/Proyecto3/main.cpp
 iostream
 -
 labo00.cpp
-E:/Algo1/Proyecto3/labo00.cpp
+/home/nodo2/git/Algo1/Proyecto3/labo00.cpp
 
