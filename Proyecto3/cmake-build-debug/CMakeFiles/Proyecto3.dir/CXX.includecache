@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+E:/Algo1/Proyecto3/labo00.cpp
+iostream
+-
+string
+-
+
+E:/Algo1/Proyecto3/main.cpp
+iostream
+-
+labo00.cpp
+E:/Algo1/Proyecto3/labo00.cpp
+
